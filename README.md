@@ -1,7 +1,7 @@
-BioBlender is an addon for Blender, aimed at providing tools for the import and elaboration of biological molecules.
+BioBlender is an add-on for Blender, aimed at providing tools for the importation and elaboration of biological molecules.
 It consists of several functions, some executed by Blender and/or its Game Engine, and some others performed by external programs, such as PyMOL, APBS etc.
 
-It was developed by the Scientific Visualization Unit of the Institute of Cliniclal Physiology of the CNR of Italy in Pisa, with the contribution of several colleagues.
+It was developed by the Scientific Visualization Unit of the Institute of Clinical Physiology of the CNR of Italy in Pisa, with the contribution of several colleagues.
 
 We have now made it an Open Project, with the intent of keeping it updated, as long as Blender keeps moving on, and of possibly introducing new, better and useful features.
 
